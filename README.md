@@ -2,8 +2,7 @@
 
 
 > [!NOTE]
-> This project requires Unity 6 or newer. <br>
-> The source code should work with any older Unity version that supports Addressables.
+> This project requires Unity 6 or newer.
 
 <b>Learn how to create a Screen Shake System for Unity that handles multiple requests — works with both built-in and Cinemachine cameras! </b>
 
